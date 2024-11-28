@@ -108,7 +108,7 @@ Ensure the data is cleaned, formatted, and split into training and testing sets.
 - **📈 Forecasts**: Saved in the `results/` directory as `.csv` files.  
 - **📊 Visualizations**: Plots of historical trends and future predictions.  
 - Example output:  
-  - "Total Visitors Prediction: 📅 Jan-June 2024"  
+  - "Total Visitors Prediction: 📅 June-Dec 2024"  
   - Confidence intervals for decision-making.  
 
 ---
@@ -125,7 +125,7 @@ Ensure the data is cleaned, formatted, and split into training and testing sets.
 
 This project was developed by **RITHY VIRA** with inspiration from Cambodia’s vibrant tourism sector 🌺.  
 
-📬 **Contact**: [rithyvira021@gmail.com]  
+📬 **Contact**: [LinkedIn](https://www.linkedin.com/in/rithyvira/)  
 
 ---
 
